@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					BABB26AF1EBBB6E1009AA3A3 = {
 						CreatedOnToolsVersion = 8.3.1;
+						DevelopmentTeam = C9L43P9G27;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -262,6 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = C9L43P9G27;
 				INFOPLIST_FILE = CheckPlease/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jharveymorgan.CheckPlease;
@@ -274,6 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = C9L43P9G27;
 				INFOPLIST_FILE = CheckPlease/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jharveymorgan.CheckPlease;
